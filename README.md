@@ -1,4 +1,5 @@
 # CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-
+
 DAY 1 QUESTIONS/EXPERIMENTS 
 
 1.	Create a simple cloud software application and provide it as a service using any Cloud Service Provider to demonstrate Software as a Service (SaaS).
@@ -30,3 +31,27 @@ DAY 1 QUESTIONS/EXPERIMENTS
 ![image](https://user-images.githubusercontent.com/112744426/236404341-ce83b2e4-ed17-41f8-a2e7-c97f0a9532ae.png)
 
 6.	Demonstrate virtualization by Installing Type-2 Hypervisor in your device, create and configure VM image with a Host Operating system (Either Windows/Linux).
+
+![image](https://user-images.githubusercontent.com/112744426/236758931-051f0340-7010-46a3-938d-5ebc26959ba9.png)
+
+7.	Create a Virtual Machine with 1 CPU, 2GB RAM and 15GB storage disk using a Type 2 Virtualization Software
+
+![image](https://user-images.githubusercontent.com/112744426/236759171-14ba9f55-2b1b-4b0c-a107-b97550850128.png)
+
+8.	Create a Virtual Hard Disk and allocate the storage using VM ware Workstation
+
+![image](https://user-images.githubusercontent.com/112744426/236759457-b90af030-3425-45df-9271-d21eb258945b.png)
+
+9.	Create a Snapshot of a VM and Test it by loading the Previous Version/Cloned VM
+
+![image](https://user-images.githubusercontent.com/112744426/236759591-1e074788-40c4-48a3-acfd-a8b73fe77eba.png)
+
+10.	Create a Cloning of a VM and Test it by loading the Previous Version/Cloned VM
+
+![image](https://user-images.githubusercontent.com/112744426/236759794-c828ff3e-3443-4bf4-9d5b-c3cb0bc5a6e0.png)
+
+11.	Change Hardware compatibility of a VM (Either by clone/create new one) which is already   created and configured. 
+
+![image](https://user-images.githubusercontent.com/112744426/236760028-11f73867-7d7c-4eeb-8ec5-0ae29451f18a.png)
+
+
