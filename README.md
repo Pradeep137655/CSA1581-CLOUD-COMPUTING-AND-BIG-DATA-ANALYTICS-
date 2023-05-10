@@ -80,3 +80,20 @@ DAY 1 QUESTIONS/EXPERIMENTS
 
 
 ![cloud computing creating virtual machine in microsoft azure 7 (2)](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/cbc18265-f3c8-4be8-8a2d-1ca2a5525372)
+
+16.	Create a Simple Web Application using Java or Python and host it in any Public Cloud Service Provider (Azure/GCP/AWS) to demonstrate Platform as a Service (PaaS).
+
+![cloud computing q16 simple web application 1](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/f9ba3a69-c49f-4531-b6f7-92118c2b8f2d)
+
+![cloud computing q16 simple web application 2](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/cbca0a6a-f8da-4f23-960b-352470d492cf)
+
+![cloud computing q16 simple web application 3](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/cdf540a5-e0d8-4616-8f09-08194b85a77b)
+
+![cloud computing q16 simple web application 4](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/be13980d-ecf1-41c4-8f1e-a6ddc29ded4a)
+
+![cloud computing q16 simple web application 5](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/a4ba5a46-41f1-4b00-8098-939a4930788b)
+
+![cloud computing q16 simple web application 6](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/ab077d42-2055-410a-a192-1c43d276c276)
+
+
+
