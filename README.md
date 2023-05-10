@@ -54,4 +54,29 @@ DAY 1 QUESTIONS/EXPERIMENTS
 
 ![image](https://user-images.githubusercontent.com/112744426/236760028-11f73867-7d7c-4eeb-8ec5-0ae29451f18a.png)
 
+12.	Demonstrate Infrastructure as a Service (IaaS) by creating a resources group using a Public Cloud Service Provider (Azure), configure with minimum CPU, RAM, and Storage.
 
+![cloud computing q 12 resource group (2)](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/5aeef76e-c1b0-4bce-9cbf-5ed224d3f19d)
+
+![cloud computing q 12 resource group](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/829bf16c-9ce3-4c84-958f-3fefc2c4fb5b)
+
+13.	Demonstrate Infrastructure as a Service (IaaS) by creating a Virtual Machine using a Public Cloud Service Provider (Azure), configure with required memory and CPU.
+
+![cloud computing creating virtual machine in microsoft azure 1](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/1588e51d-4dfd-4d19-ac86-38b01846d426)
+
+![cloud computing creating virtual machine in microsoft azure 2](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/afcce49a-0e6f-4ba5-9952-ceda1b1a6333)
+
+![cloud computing creating virtual machine in microsoft azure 3](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/27cd3509-3bcc-41e6-991a-9be0182fa624)
+
+![cloud computing creating virtual machine in microsoft azure 4](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/ac709c03-bfe0-47ba-afaf-80c173615c3f)
+
+![cloud computing creating virtual machine in microsoft azure 5](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/7f37c207-6167-41a9-81f8-b11c08edcac1)
+
+![cloud computing creating virtual machine in microsoft azure 6](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/f004fb28-b3e2-407d-83ae-9a3b0b917871)
+
+![cloud computing creating virtual machine in microsoft azure 7](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/014994b5-86dd-4c79-8ec4-12b189101212)
+
+![cloud computing creating virtual machine in microsoft azure 8](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/6e40a074-1af7-4f11-b557-b52dc06ffdb1)
+
+
+![cloud computing creating virtual machine in microsoft azure 7 (2)](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/cbc18265-f3c8-4be8-8a2d-1ca2a5525372)
