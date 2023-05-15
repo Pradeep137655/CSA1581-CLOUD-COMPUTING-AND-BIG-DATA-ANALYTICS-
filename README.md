@@ -95,5 +95,12 @@ DAY 1 QUESTIONS/EXPERIMENTS
 
 ![cloud computing q16 simple web application 6](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/ab077d42-2055-410a-a192-1c43d276c276)
 
-
-
+20.	Create a SQL storage service and perform a basic query using any Public Cloud Service Provider (Azure/GCP/AWS) to demonstrate Database as a Service (DaaS)
+![Screenshot (1)](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/b6c5899d-5483-43fd-aa8f-a358d47efe19)
+![Screenshot (2)](https://![Screenshot (3)](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/e5aaa802-a7ce-4dc6-bfd9-9b993bddf88d)
+github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/470eea99-1b63-424b-83a1-7fe5572c9fb9)
+![Screenshot (4)](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/8b114104-fdef-4422-8374-e54383ed15eb)
+![Screenshot (5)](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/09cdcf92-0d65-4f96-880f-908642111903)
+![Screenshot (6)](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/6bf2c9e9-2c0a-474f-a07e-593ec790637a)
+![Screenshot (7)](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/acd0aca8-013a-4aa6-8499-c42299b752cb)
+![Screenshot (8)](https://github.com/Pradeep137655/CSA1581-CLOUD-COMPUTING-AND-BIG-DATA-ANALYTICS-/assets/112744426/30093098-280b-4514-a5fd-83d442365d26)
